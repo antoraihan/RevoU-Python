@@ -1,0 +1,4 @@
+voucher_id,voucher_type,voucher_amount
+1,cashback,25000
+2,direct discount,25000
+3,delivery fee discount,25000
